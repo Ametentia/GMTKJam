@@ -1,0 +1,30 @@
+## Java
+
+*.class
+*.war
+*.ear
+hs_err_pid*
+
+## Robovm
+/ios/robovm-build/
+
+## GWT
+/html/war/
+/html/gwt-unitCache/
+.apt_generated/
+.gwt/
+gwt-unitCache/
+www-test/
+.gwt-tmp/
+
+## Android Studio and Intellij and Android in general
+.idea/
+*.iml
+*.ipr
+*.iws
+
+Libraries/jsfml_src.zip
+
+## OS Specific
+.DS_Store
+Thumbs.db

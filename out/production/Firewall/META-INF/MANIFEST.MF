@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Libraries/jsfml.jar Libraries/ClusterEngine.jar
+Main-Class: com.pixeldot.firewall.Launcher
+
